@@ -74,3 +74,7 @@ Um modelo de execução de escolha de cartão a ser vendido ao cliente é exibid
 <div align="center">
 <img src="img/gif_projeto.gif" />
 </div>
+
+### 4. Conclusão
+
+Neste projeto foi realizado um processo de implementação do projeto em um ambiente de produção. Dentro do método de execução do projeto, utilizou-se o modelo de árvore de decisão, na qual se mostrou satisfatório para a previsão de venda de planos para clientes com comportamento de compra específico de cada segmentação de categoria de cliente.
