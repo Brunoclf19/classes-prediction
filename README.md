@@ -59,7 +59,7 @@ Com as informações fornecidas, é necessário realizar uma análise dos dados 
 
 ### 3. Modelo em produção
 
-O modelo de Machine Learning foi implementado e colocado em produção através de uma interface web Gradio (https://www.gradio.app), que permite uma exposição do algoritmo de qualquer lugar por meio de um link da web.
+O modelo de Machine Learning foi implementado e colocado em produção através de uma interface web Gradio (https://huggingface.co/spaces/BrunoFreitas1997/Gradio), que permite uma exposição do algoritmo de qualquer lugar por meio de um link da web.
 
 #### Esquemático do modelo em produção
 
